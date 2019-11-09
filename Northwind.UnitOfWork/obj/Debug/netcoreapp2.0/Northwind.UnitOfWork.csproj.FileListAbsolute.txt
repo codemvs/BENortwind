@@ -1,0 +1,9 @@
+C:\Apps\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.0\Northwind.UnitOfWork.deps.json
+C:\Apps\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.0\Northwind.UnitOfWork.dll
+C:\Apps\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp2.0\Northwind.UnitOfWork.pdb
+C:\Apps\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.0\Northwind.UnitOfWork.csprojAssemblyReference.cache
+C:\Apps\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.0\Northwind.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Apps\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.0\Northwind.UnitOfWork.AssemblyInfoInputs.cache
+C:\Apps\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.0\Northwind.UnitOfWork.AssemblyInfo.cs
+C:\Apps\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.0\Northwind.UnitOfWork.dll
+C:\Apps\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp2.0\Northwind.UnitOfWork.pdb

@@ -1,0 +1,11 @@
+C:\Apps\NorthwindSolution\Northwind.WebApi\bin\Debug\netcoreapp2.0\Northwind.WebApi.deps.json
+C:\Apps\NorthwindSolution\Northwind.WebApi\bin\Debug\netcoreapp2.0\Northwind.WebApi.runtimeconfig.json
+C:\Apps\NorthwindSolution\Northwind.WebApi\bin\Debug\netcoreapp2.0\Northwind.WebApi.runtimeconfig.dev.json
+C:\Apps\NorthwindSolution\Northwind.WebApi\bin\Debug\netcoreapp2.0\Northwind.WebApi.dll
+C:\Apps\NorthwindSolution\Northwind.WebApi\bin\Debug\netcoreapp2.0\Northwind.WebApi.pdb
+C:\Apps\NorthwindSolution\Northwind.WebApi\obj\Debug\netcoreapp2.0\Northwind.WebApi.csprojAssemblyReference.cache
+C:\Apps\NorthwindSolution\Northwind.WebApi\obj\Debug\netcoreapp2.0\Northwind.WebApi.csproj.CoreCompileInputs.cache
+C:\Apps\NorthwindSolution\Northwind.WebApi\obj\Debug\netcoreapp2.0\Northwind.WebApi.AssemblyInfoInputs.cache
+C:\Apps\NorthwindSolution\Northwind.WebApi\obj\Debug\netcoreapp2.0\Northwind.WebApi.AssemblyInfo.cs
+C:\Apps\NorthwindSolution\Northwind.WebApi\obj\Debug\netcoreapp2.0\Northwind.WebApi.dll
+C:\Apps\NorthwindSolution\Northwind.WebApi\obj\Debug\netcoreapp2.0\Northwind.WebApi.pdb
