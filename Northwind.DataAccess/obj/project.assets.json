@@ -745,6 +745,19 @@
         "runtime": {
           "bin/placeholder/Northwind.Repositories.dll": {}
         }
+      },
+      "Northwind.UnitOfWork/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Northwind.Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Northwind.UnitOfWork.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Northwind.UnitOfWork.dll": {}
+        }
       }
     }
   },
@@ -3085,6 +3098,11 @@
       "type": "project",
       "path": "../Northwind.Repositories/Northwind.Repositories.csproj",
       "msbuildProject": "../Northwind.Repositories/Northwind.Repositories.csproj"
+    },
+    "Northwind.UnitOfWork/1.0.0": {
+      "type": "project",
+      "path": "../Northwind.UnitOfWork/Northwind.UnitOfWork.csproj",
+      "msbuildProject": "../Northwind.UnitOfWork/Northwind.UnitOfWork.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3092,7 +3110,8 @@
       "Dapper >= 1.50.5",
       "Dapper.Contrib >= 1.50.5",
       "Microsoft.NETCore.App >= 2.0.0",
-      "Northwind.Repositories >= 1.0.0"
+      "Northwind.Repositories >= 1.0.0",
+      "Northwind.UnitOfWork >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3127,6 +3146,9 @@
           "projectReferences": {
             "C:\\Apps\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj": {
               "projectPath": "C:\\Apps\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj"
+            },
+            "C:\\Apps\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj": {
+              "projectPath": "C:\\Apps\\NorthwindSolution\\Northwind.UnitOfWork\\Northwind.UnitOfWork.csproj"
             }
           }
         }

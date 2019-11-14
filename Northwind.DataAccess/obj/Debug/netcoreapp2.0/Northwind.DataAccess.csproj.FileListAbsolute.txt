@@ -3,7 +3,9 @@ C:\Apps\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind
 C:\Apps\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.DataAccess.pdb
 C:\Apps\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.Models.dll
 C:\Apps\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.Repositories.dll
+C:\Apps\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.UnitOfWork.dll
 C:\Apps\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.Repositories.pdb
+C:\Apps\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.UnitOfWork.pdb
 C:\Apps\NorthwindSolution\Northwind.DataAccess\bin\Debug\netcoreapp2.0\Northwind.Models.pdb
 C:\Apps\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.0\Northwind.DataAccess.csprojAssemblyReference.cache
 C:\Apps\NorthwindSolution\Northwind.DataAccess\obj\Debug\netcoreapp2.0\Northwind.DataAccess.csproj.CoreCompileInputs.cache

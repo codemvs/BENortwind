@@ -196,6 +196,29 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Northwind.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Northwind.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Northwind.Models.dll": {}
+        }
+      },
+      "Northwind.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Northwind.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Northwind.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Northwind.Repositories.dll": {}
+        }
       }
     }
   },
@@ -656,11 +679,22 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Northwind.Models/1.0.0": {
+      "type": "project",
+      "path": "../Northwind.Models/Northwind.Models.csproj",
+      "msbuildProject": "../Northwind.Models/Northwind.Models.csproj"
+    },
+    "Northwind.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Northwind.Repositories/Northwind.Repositories.csproj",
+      "msbuildProject": "../Northwind.Repositories/Northwind.Repositories.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "Northwind.Repositories >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -692,7 +726,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Apps\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj": {
+              "projectPath": "C:\\Apps\\NorthwindSolution\\Northwind.Repositories\\Northwind.Repositories.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

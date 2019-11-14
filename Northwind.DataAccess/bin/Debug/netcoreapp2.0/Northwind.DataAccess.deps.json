@@ -10,7 +10,8 @@
         "dependencies": {
           "Dapper": "1.50.5",
           "Dapper.Contrib": "1.50.5",
-          "Northwind.Repositories": "1.0.0"
+          "Northwind.Repositories": "1.0.0",
+          "Northwind.UnitOfWork": "1.0.0"
         },
         "runtime": {
           "Northwind.DataAccess.dll": {}
@@ -377,6 +378,14 @@
         "runtime": {
           "Northwind.Repositories.dll": {}
         }
+      },
+      "Northwind.UnitOfWork/1.0.0": {
+        "dependencies": {
+          "Northwind.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "Northwind.UnitOfWork.dll": {}
+        }
       }
     }
   },
@@ -644,6 +653,11 @@
       "sha512": ""
     },
     "Northwind.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Northwind.UnitOfWork/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
