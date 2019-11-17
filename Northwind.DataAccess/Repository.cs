@@ -6,6 +6,9 @@ using System.Data.SqlClient;
 
 namespace Northwind.DataAccess
 {
+    /**
+     * Clase que permite realizar las operaciones basicas CRUD para un modelo de tipo T
+     */
     public class Repository<T> : IRepository<T> where T : class
     {
         protected string _connectionString;
